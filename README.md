@@ -1,4 +1,4 @@
-# DLNN
+# DLNN  - Group 8
 
   João Frederico Monteiro 20211786  
   Maria Inês Correia 20211155  
